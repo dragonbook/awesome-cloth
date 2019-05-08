@@ -29,4 +29,8 @@
   
 - Field-Aligned Online Surface Reconstruction 
 
+- igl
+  - Wallpaper Pattern Alignment along Garment Seams
+
+
 # TODO: add more
