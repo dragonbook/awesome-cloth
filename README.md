@@ -32,5 +32,5 @@
 - igl
   - Wallpaper Pattern Alignment along Garment Seams
 
-
+- Implicit Untangling: A robust solution for modeling layered clothing
 # TODO: add more
