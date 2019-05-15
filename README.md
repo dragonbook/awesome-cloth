@@ -96,12 +96,16 @@
 [[paper](https://www.seas.upenn.edu/~cffjiang/research/cloth/paper.pdf)]
 [[video](https://www.youtube.com/watch?v=eGtB0VXJsuI)]
 
+![pic](pics/Anisotropic-Elastoplasticity-for-Cloth-Knit-and-Hair-Frictional-Contact.png)
+
 
 ## A Multi-Scale Model for Simulating Liquid-Fabric Interactions(SIGGRAPH 2018)
 [[project](http://www.cs.columbia.edu/cg/wetcloth/)]
 [[paper](http://www.cs.columbia.edu/cg/wetcloth/main.pdf)]
 [[code](https://github.com/nepluno/libWetCloth)]
 [[video](https://www.youtube.com/watch?v=xvyGpBKevLM&feature=youtu.be)]
+
+![pic](pics/A-Multi-Scale-Model-for-Simulating-Liquid-Fabric-Interactions.png)
 
 
 <!-- - Shuang Zhao
