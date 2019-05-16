@@ -137,7 +137,7 @@
 ![pic](pics/Mechanics-Aware-Modeling-of-Cloth-Appearance.png)
 
 
-## Fiber-Level On-the-Fly Procedural Textiles(Computer Graphics Forum)
+## Fiber-Level On-the-Fly Procedural Textiles(Computer Graphics Forum 2017)
 [[project](http://www.cs.cornell.edu/projects/ctcloth/#proc-egsr17)]
 [[paper](https://shuangz.com/projects/proccloth-egsr17/proccloth-egsr17.pdf)]
 [[video](https://vimeo.com/218529473)]
@@ -145,7 +145,7 @@
 ![pic](pics/Fiber-Level-On-the-Fly-Procedural-Textiles.png)
 
 
-## Real-Time Linear BRDF MIP-Mapping(Computer Graphics Forum)
+## Real-Time Linear BRDF MIP-Mapping(Computer Graphics Forum 2017)
 [[paper](https://shuangz.com/projects/nmfilter-egsr17/nmfilter-main.pdf)]
 [[video](https://vimeo.com/218957543)]
 
