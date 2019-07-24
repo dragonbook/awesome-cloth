@@ -1,5 +1,7 @@
 # awesome-cloth
 
+## Sackcloth or Silk? The Impact of Appearance vs Dynamics on the Perception of Animated Cloth
+
 ## DeepGarment : 3D Garment Shape Estimation from a Single Image
 
 ## Implicit Untangling: A robust solution for modeling layered clothing(SIGGRAPH 2019)
