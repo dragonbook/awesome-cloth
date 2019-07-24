@@ -1,5 +1,7 @@
 # awesome-cloth
 
+## DeepGarment : 3D Garment Shape Estimation from a Single Image
+
 ## Implicit Untangling: A robust solution for modeling layered clothing(SIGGRAPH 2019)
 
 ![pic](pics/Implicit-Untangling:-A-robust-solution-for-modeling-layered-clothing.jpg)
