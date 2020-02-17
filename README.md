@@ -1,6 +1,4 @@
-# awesome-cloth
-## Welcom any contribution!!
-
+# Awesome-cloth(Welcome any contribution!!)
 
 ## Interactive Design of Periodic Yarn-Level Cloth Patterns
 
