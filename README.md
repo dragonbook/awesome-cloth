@@ -1,5 +1,7 @@
 # Awesome-cloth(Welcome any contribution!!)
 
+## Reﬂection Symmetry in Textured Sewing Patterns
+
 ## Interactive Design of Periodic Yarn-Level Cloth Patterns
 
 ## Sackcloth or Silk? The Impact of Appearance vs Dynamics on the Perception of Animated Cloth
